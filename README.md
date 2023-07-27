@@ -1,2 +1,2 @@
 # Manitra
-Check 
+Check the boxes
